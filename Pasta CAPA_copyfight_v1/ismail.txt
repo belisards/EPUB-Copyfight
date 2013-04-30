@@ -1,0 +1,91 @@
+INSTRUÇÕES DE IMPRESSÃO DO ADOBE INDESIGN PARA RELATÓRIO DE PRESTADOR DE SERVIÇOS
+
+NOME DA PUBLICAÇÃO: CAPA_copyfight_v1.indd
+
+DATA DO PACOTE: 29/04/2013 11:14
+Data de criação: 29/04/2013
+Data de modificação: 29/04/2013
+
+INFORMAÇÕES PARA CONTATO
+
+Nome da empresa: 
+Contato: 
+Endereço: 
+
+
+
+
+
+Telefone: 
+Fax: 
+E-mail: 
+
+INSTRUÇÕES ESPECIAIS E OUTRAS NOTAS
+
+
+
+
+
+
+Plug-ins externos 0
+Objetos não opacos:Na página1, 2
+
+FONTES
+5 Fontes usadas; 0 Ausentes, 0 Incorporados(as), 0 Incompletos(as) , 0 Protegidos(as)
+
+Fontes empacotadas
+- Nome: ArialMT; Tipo: OpenType TrueType, Status: OK
+- Nome: BellGothicBT-Roman; Tipo: TrueType, Status: OK
+- Nome: BellGothicStd-Black; Tipo: OpenType Type 1, Status: OK
+- Nome: MinionPro-Regular; Tipo: OpenType Type 1, Status: OK
+- Nome: OCRB10PitchBT-Regular; Tipo: TrueType, Status: OK
+
+
+CORES E TINTAS
+4 Tintas de escala; 0 Tintas especiais
+
+- Nome e tipo: Ciano de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Magenta de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Amarelo de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Preto de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+
+
+VÍNCULOS E IMAGENS
+(Somente vínculos ausentes e incorporados)
+Vínculos e imagens: 10 Vínculos encontrados; 0 Modificados(as), 0 Ausentes 0 Não acessível
+Imagens: 0 Incorporados(as), 0 usam espaço de cor RGB
+
+
+CONFIGURAÇÕES DE IMPRESSÃO
+PPD: N/D, (HP LaserJet M1005)
+Imprimindo em: Impressora
+Número de cópias: 1
+Páginas espelhadas: Não
+Páginas pares/ímpares: Ambas
+Páginas: Tudo
+Prova: Não
+Lado a lado: Nenhum(a)
+Escala: 100%, 100%
+Posição da página: Superior esquerda
+Camadas de impressão: Camadas visíveis e imprimíveis
+Marcas da impressora: Nenhum(a)
+Sangria: 0 cm, 0 cm, 0 cm, 0 cm
+Cor: RGB composto
+Modo de trapping: Nenhum(a)
+Enviar dados de imagem: Subamostragem otimizada
+Substituição de imagem OPI/DCS: Não
+Tamanho da página: Personalizar: 55,55 cm x 24 cm
+Dimensões do papel: 21,59 cm x 27,94 cm
+Orientação: Horizontal
+Negativo: Não
+Modo de virar: Desativado
+
+
+LISTA DO PACOTE DE ARQUIVOS
+
+1. CAPA_copyfight_v1.indd; tipo: Publicação do Adobe InDesign; tamanho: 0K
+2. arial.ttf; tipo: Arquivo de fonte; tamanho: 760K
+3. Bell Gothic BT.ttf; tipo: Arquivo de fonte; tamanho: 35K
+4. BellGothicStd-Black.otf; tipo: Arquivo de fonte; tamanho: 31K
+5. MinionPro-Regular.otf; tipo: Arquivo de fonte; tamanho: 212K
+6. OCR-b___.ttf; tipo: Arquivo de fonte; tamanho: 20K

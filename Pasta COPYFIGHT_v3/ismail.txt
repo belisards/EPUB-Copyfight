@@ -1,0 +1,111 @@
+INSTRUÇÕES DE IMPRESSÃO DO ADOBE INDESIGN PARA RELATÓRIO DE PRESTADOR DE SERVIÇOS
+
+NOME DA PUBLICAÇÃO: COPYFIGHT_v3.indd
+
+DATA DO PACOTE: 29/04/2013 11:12
+Data de criação: 29/04/2013
+Data de modificação: 29/04/2013
+
+INFORMAÇÕES PARA CONTATO
+
+Nome da empresa: 
+Contato: 
+Endereço: 
+
+
+
+
+
+Telefone: 
+Fax: 
+E-mail: 
+
+INSTRUÇÕES ESPECIAIS E OUTRAS NOTAS
+
+
+
+
+
+
+Plug-ins externos 0
+Objetos não opacos:Nenhum(a)
+
+FONTES
+12 Fontes usadas; 0 Ausentes, 0 Incorporados(as), 0 Incompletos(as) , 0 Protegidos(as)
+
+Fontes não empacotadas
+- Nome: MS-Mincho; Tipo: TrueType, Status: OK
+Fontes empacotadas
+- Nome: BellGothicBT-Roman; Tipo: TrueType, Status: OK
+- Nome: BellGothicStd-Black; Tipo: OpenType Type 1, Status: OK
+- Nome: BellGothicStd-Bold; Tipo: OpenType Type 1, Status: OK
+- Nome: FrutigerLT-Light; Tipo: TrueType, Status: OK
+- Nome: TimesNewRomanPSMT; Tipo: OpenType TrueType, Status: OK
+- Nome: Utopia-Black; Tipo: Type 1, Status: OK
+- Nome: Utopia-Bold; Tipo: Type 1, Status: OK
+- Nome: Utopia-BoldItalic; Tipo: Type 1, Status: OK
+- Nome: Utopia-Italic; Tipo: Type 1, Status: OK
+- Nome: Utopia-Regular; Tipo: Type 1, Status: OK
+- Nome: Utopia-Semibold; Tipo: Type 1, Status: OK
+
+
+CORES E TINTAS
+4 Tintas de escala; 0 Tintas especiais
+
+- Nome e tipo: Ciano de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Magenta de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Amarelo de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Preto de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+
+
+VÍNCULOS E IMAGENS
+(Somente vínculos ausentes e incorporados)
+Vínculos e imagens: 31 Vínculos encontrados; 0 Modificados(as), 0 Ausentes 0 Não acessível
+Imagens: 0 Incorporados(as), 1 usam espaço de cor RGB
+
+
+CONFIGURAÇÕES DE IMPRESSÃO
+PPD: N/D, (HP LaserJet M1005)
+Imprimindo em: Impressora
+Número de cópias: 1
+Páginas espelhadas: Não
+Páginas pares/ímpares: Ambas
+Páginas: Tudo
+Prova: Não
+Lado a lado: Nenhum(a)
+Escala: 100%, 100%
+Posição da página: Centro
+Camadas de impressão: Camadas visíveis e imprimíveis
+Marcas da impressora: Cortes
+Sangria: 0 pt, 0 pt, 0 pt, 0 pt
+Cor: RGB composto
+Modo de trapping: Nenhum(a)
+Enviar dados de imagem: Subamostragem otimizada
+Substituição de imagem OPI/DCS: Não
+Tamanho da página: Personalizar: 481,89 pt x 680,315 pt
+Dimensões do papel: 612 pt x 792 pt
+Orientação: Vertical
+Negativo: Não
+Modo de virar: Desativado
+
+
+LISTA DO PACOTE DE ARQUIVOS
+
+1. COPYFIGHT_v3.indd; tipo: Publicação do Adobe InDesign; tamanho: 0K
+2. Bell Gothic BT.ttf; tipo: Arquivo de fonte; tamanho: 35K
+3. BellGothicStd-Black.otf; tipo: Arquivo de fonte; tamanho: 31K
+4. BellGothicStd-Bold.otf; tipo: Arquivo de fonte; tamanho: 31K
+5. Frutiger LT 45 Light_0.ttf; tipo: Arquivo de fonte; tamanho: 87K
+6. times.ttf; tipo: Arquivo de fonte; tamanho: 814K
+7. utbl___.PFB; tipo: Arquivo de fonte; tamanho: 37K
+8. utbl___.PFM; tipo: Arquivo de fonte; tamanho: 3K
+9. utb____.PFB; tipo: Arquivo de fonte; tamanho: 35K
+10. utb____.PFM; tipo: Arquivo de fonte; tamanho: 3K
+11. utbi___.PFB; tipo: Arquivo de fonte; tamanho: 37K
+12. utbi___.PFM; tipo: Arquivo de fonte; tamanho: 3K
+13. uti____.PFB; tipo: Arquivo de fonte; tamanho: 36K
+14. uti____.PFM; tipo: Arquivo de fonte; tamanho: 3K
+15. utrg___.PFB; tipo: Arquivo de fonte; tamanho: 35K
+16. utrg___.PFM; tipo: Arquivo de fonte; tamanho: 3K
+17. utsb___.PFB; tipo: Arquivo de fonte; tamanho: 37K
+18. utsb___.PFM; tipo: Arquivo de fonte; tamanho: 3K

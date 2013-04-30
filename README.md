@@ -1,4 +1,4 @@
-EPUB-Copyfight
-==============
+copyfight
+=========
 
-Copyfight EPUB
+EPUB do Copyfight

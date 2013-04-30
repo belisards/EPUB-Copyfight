@@ -1,0 +1,296 @@
+%!Adobe-FontList 1.14
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BellGothicBT-Roman
+FamilyName:Bell Gothic BT
+StyleName:Roman
+FullName:Bell Gothic BT
+MenuName:Bell Gothic BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\Bell Gothic BT.ttf
+DataFormat:sfntData
+FileLength:36358
+FileModTime:1070069322
+WeightClass:400
+WidthClass:4
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BellGothicStd-Black
+FamilyName:Bell Gothic Std
+StyleName:Black
+FullName:Bell Gothic Std Black
+MenuName:Bell Gothic Std Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\BellGothicStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32364
+FileModTime:1217268986
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:60
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BellGothicStd-Bold
+FamilyName:Bell Gothic Std
+StyleName:Bold
+FullName:Bell Gothic Std Bold
+MenuName:Bell Gothic Std Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\BellGothicStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32512
+FileModTime:1217268986
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:60
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FrutigerLT-Light
+FamilyName:Frutiger LT 45 Light
+StyleName:Regular
+FullName:Frutiger LT 45 Light
+MenuName:Frutiger LT 45 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\Frutiger LT 45 Light_0.ttf
+DataFormat:sfntData
+FileLength:89772
+FileModTime:1310760404
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\times.ttf
+DataFormat:sfntData
+FileLength:834240
+FileModTime:1288918820
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Utopia-BoldItalic
+FamilyName:Utopia
+StyleName:Bold Italic
+FullName:Utopia Bold Italic
+MenuName:Utopia Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utbi___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37994
+FileModTime:1183567726
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Utopia-BoldItalic
+NumMMAxes:0
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utbi___.PFM
+FileLength:3478
+FileModTime:1205416482
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Utopia-Black
+FamilyName:Utopia
+StyleName:Black
+FullName:Utopia Black
+MenuName:Utopia Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utbl___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38060
+FileModTime:1183567726
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Utopia-Black
+NumMMAxes:0
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utbl___.PFM
+FileLength:3442
+FileModTime:1205416484
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Utopia-Bold
+FamilyName:Utopia
+StyleName:Bold
+FullName:Utopia Bold
+MenuName:Utopia Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utb____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:36726
+FileModTime:1183567726
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Utopia-Bold
+NumMMAxes:0
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utb____.PFM
+FileLength:3424
+FileModTime:1205416480
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Utopia-Italic
+FamilyName:Utopia
+StyleName:Italic
+FullName:Utopia Italic
+MenuName:Utopia
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\uti____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37840
+FileModTime:1183567726
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Utopia-Italic
+NumMMAxes:0
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\uti____.PFM
+FileLength:3441
+FileModTime:1205416486
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Utopia-Regular
+FamilyName:Utopia
+StyleName:Regular
+FullName:Utopia Regular
+MenuName:Utopia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utrg___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:36508
+FileModTime:1183567726
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Utopia-Regular
+NumMMAxes:0
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utrg___.PFM
+FileLength:3530
+FileModTime:1205416490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Utopia-Semibold
+FamilyName:Utopia
+StyleName:Semibold
+FullName:Utopia Semibold
+MenuName:Utopia
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utsb___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38113
+FileModTime:1183567726
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Utopia-Semibold
+NumMMAxes:0
+OutlineFileName:C:\Users\Carolina\Desktop\Pasta COPYFIGHT_v3\Document fonts\utsb___.PFM
+FileLength:3483
+FileModTime:1205416492
+%EndFont
+
